@@ -1,0 +1,122 @@
+body{
+    margin-left: 100px;
+    margin-top:30px;
+}
+h1{
+    margin-right:840px;
+    color:  hsl(300, 43%, 22%);
+    font-family: 'League Spartan', sans-serif;
+    font-size: 45px;
+}
+    
+.we{
+    margin-right :820px;
+   color: hsl(300, 43%, 22%);
+    font-family: 'League Spartan', sans-serif;
+    font-size:15px;
+    line-height: 20px;
+    margin-right: 760px;
+}
+.checked{
+    color:gold;
+}
+p{
+    font-family: 'League Spartan', sans-serif;
+}
+.C{
+    display: flex;
+    gap:16px;
+}
+.CO{
+    border-radius: 100px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.CV{
+    
+    margin-top:-1.5px;
+    font-size:13px;
+}
+.B1{
+    color:hsl(333, 80%, 67%);
+    margin-top: -15px;
+}
+
+h4{
+   
+    font-family:  'League Spartan', sans-serif;
+    color :white;
+}
+.L{
+    padding-left:30px;
+    padding-right:20px;
+    margin-top:10px;
+    color:rgb(235, 215, 251);
+}
+.feed{
+border:solid transparent;
+border-radius: 10px;
+background-color: hsl(300, 43%, 22%);
+margin-right:20px;
+padding-bottom:25px;
+padding-top:25px;
+margin-left:-90px;
+}
+.feed2{
+    border:solid transparent;
+    border-radius: 10px;
+    background-color: hsl(300, 43%, 22%);
+    margin-right:80px;
+    padding-bottom:25px;
+    padding-top:25px;
+    margin-top:15px;
+    margin-bottom: -15px;
+    }
+.feed3{
+border:solid transparent;
+border-radius: 10px;
+background-color: hsl(300, 43%, 22%);
+margin-right:40px;
+margin-left: -60px;
+padding-bottom:25px;
+padding-top:25px;
+margin-top:30px;
+margin-bottom: -30px;
+}
+    
+.all{
+    display:inline-flex;
+    padding-left: 90px;
+    padding-top: 30px;
+    padding-right:130px;
+}
+.stars{
+    margin-left: 600px;
+    margin-top:-190px;
+    display:inline-block;
+   
+}
+
+.T1{
+    border: transparent ;
+    background-color:hsl(300, 24%, 96%);
+    padding:0px 0px 0px 20px;
+    border-radius: 10px;
+    width: 400px;
+}
+.T2{
+    border: transparent ;
+    background-color:hsl(300, 24%, 96%);
+    padding:0px 0px 0px 20px;
+    border-radius: 10px;
+    margin:20px 0px 0px 40px;
+    width: 400px;
+}
+.T3{
+    border: transparent ;
+    background-color:hsl(300, 24%, 96%);
+    padding:0px 0px 0px 20px;
+    border-radius: 10px;
+    margin:20px 0px 0px 80px;
+    width: 400px;
+}
